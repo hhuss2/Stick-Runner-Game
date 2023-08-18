@@ -1,6 +1,6 @@
 ## General Info
 
-Stick Runner Game is a simple 2D endless runner game built using Python and the Pygame library. The player controls a stick figure character that can jump to avoid obstacles and collect items.
+Stick Runner Game is a endless runner game built using Python and the Pygame library. The player controls a stick figure character that can jump to avoid obstacles and collect items.
 
 ## Features
 
@@ -16,9 +16,9 @@ Stick Runner Game is a simple 2D endless runner game built using Python and the 
 
 ## How to Play
 
-+ Make sure you have Python and Pygame installed.
++ Python and Pygame installion.
 + Download files into the same directory
-+ Run the game by executing `python src/main.py` in the project directory.
++ Open the game by running game.py.
 + Use the **Space** key to jump.
 + Avoid obstacles and collect items to increase your score.
 + Press **R** key to restart the game after the game is over.
