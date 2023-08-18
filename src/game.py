@@ -1,7 +1,7 @@
 import pygame
 import random
 from stick_figure import StickFigure
-from collectible import Collectible  # Import the Collectible class
+from collectible import Collectible
 
 class Game:
     def __init__(self):
