@@ -1,4 +1,3 @@
-# collectible.py
 import pygame
 
 class Collectible:
@@ -19,5 +18,5 @@ class Collectible:
 
     def render(self, screen):
         if not self.collected:
-            color = (255, 255, 0)  # Yellow color for collectible visualization
+            color = (255, 255, 0)  # Yellow color for collectible items
             pygame.draw.circle(screen, color, (self.x + self.size // 2, self.y + self.size // 2), self.size // 2)
