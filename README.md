@@ -12,7 +12,7 @@ Stick Runner Game is a simple 2D endless runner game built using Python and the 
 ## Requirements
 
 - Python 3.x
-- Pygame library (install with `pip install pygame`)
+- Pygame library (install with 'pip install pygame')
 
 ## How to Play
 
